@@ -10,3 +10,10 @@ tasks:
     convert framebuffer.tga framebuffer.png &&
     open framebuffer.png &&
     cd ..
+vscode:
+  extensions:
+    - "VisualStudioExptTeam.vscodeintellicode"
+    - "VisualStudioExptTeam.intellicode-api-usage-examples"
+    - "formulahendry.code-runner"
+    - "ms-vscode.cpptools-extension-pack"
+    - "ms-vscode.cpptools"
